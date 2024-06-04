@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there 👋 I am Pranav Patni
+**A Full Stack Java Developer and Androis Enthusiast from India..**
 
-<!--
-**Pranav27092003/Pranav27092003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Java Development Projects and Andriod Development Projects.
+- 🌱 I’m currently learning DSA in JAVA and a new technology "Salesforce".
+- 📫 How to reach me: pranavpatni87@gmail.com
+- ⚡ Fun fact: I love watching movies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**ACHIEVEMENTS:**
+
+-  Winner in "Battle of Bytes" the coding competition amongst 12 teams.
+-  Stood 3rd in internal round of Smart India Hackathon amongst 33 teams participation.
+-  Stood 4th in national level tech hackathon " TECH-A-THON"
+-  Solved over 500+ Coding problems on various online coding platforms
+-  Jacked a global rank 750 in Leetcode Weekly contest 399.
+
